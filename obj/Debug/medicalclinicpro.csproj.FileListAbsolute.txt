@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\medicalclinicpro\bin\Debug\medicalclinicpro.exe.config
+C:\Users\lenovo\source\repos\medicalclinicpro\bin\Debug\medicalclinicpro.exe
+C:\Users\lenovo\source\repos\medicalclinicpro\bin\Debug\medicalclinicpro.pdb
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form1.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form2.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form3.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form4.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form5.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form6.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Form7.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.Properties.Resources.resources
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.exe
+C:\Users\lenovo\source\repos\medicalclinicpro\obj\Debug\medicalclinicpro.pdb
